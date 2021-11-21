@@ -1,0 +1,1 @@
+intervencionId|codigoSitio|NombreProyecto|ICD|DESCRIPCION|estadoSigo|Vendor|EstadoIM|subEstado|FechaEstadoIM|fechaRFISIM|fechaRFASIM|fechaRFTSIM|fechaOASIM|TT|status|schedstart|schedfinish|actstart|actfinish|check_icd
